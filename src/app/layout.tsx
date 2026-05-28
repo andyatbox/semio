@@ -22,15 +22,13 @@ export const metadata: Metadata = {
       "Strategic advisory for SaaS growth, channel expansion, and data monetization.",
     url: "/",
     siteName: "The Semio Group",
-    images: [{ url: "/assets/semio-icon-color.png", width: 908, height: 908, alt: "The Semio Group" }],
     type: "website",
   },
   twitter: {
-    card: "summary",
+    card: "summary_large_image",
     title: "The Semio Group",
     description:
       "Strategic advisory for SaaS growth, channel expansion, and data monetization.",
-    images: ["/assets/semio-icon-color.png"],
   },
 };
 
