@@ -1,0 +1,107 @@
+{
+  "brand": {
+    "name": "The Semio Group",
+    "shortName": "Semio",
+    "tagline": "Strategic Advisory for the Modern SaaS Economy.",
+    "valueProp": "Driving revenue by creating value.",
+    "positioning": "Strategic Advisory for SaaS Growth, Channel Expansion & Data Monetization.",
+    "contactEmail": "hello@thesemiogroup.com"
+  },
+
+  "nav": [
+    { "label": "Services", "href": "#services" },
+    { "label": "Approach", "href": "#approach" },
+    { "label": "Why Us",   "href": "#why" },
+    { "label": "Contact",  "href": "#contact" }
+  ],
+
+  "intro": {
+    "lead": "The Semio Group is a consulting and advisory firm helping SaaS companies accelerate growth through {{em:channel partnerships, enterprise relationships, data monetization,}} and go-to-market strategy.",
+    "body": [
+      "We work with emerging and established technology companies to build scalable commercial ecosystems that drive recurring revenue, expand market access, and create long-term enterprise value.",
+      "With a strong network of reseller SaaS platforms and legacy relationships across Fortune 500 organizations, we help clients unlock opportunities that traditionally require years of relationship-building and market development."
+    ]
+  },
+
+  "services": [
+    {
+      "n": "01",
+      "title": "SaaS Growth Strategy",
+      "desc": "We help technology companies identify scalable growth opportunities, optimize revenue models, and build long-term commercialization strategies."
+    },
+    {
+      "n": "02",
+      "title": "Channel & Reseller Partnerships",
+      "desc": "Access untapped markets. Our ecosystem of SaaS reseller platforms and strategic partners enables clients to expand distribution and accelerate customer acquisition."
+    },
+    {
+      "n": "03",
+      "title": "Data Monetization",
+      "desc": "We advise organizations on how to transform proprietary data assets into revenue-generating opportunities through analytics, partnerships, and commercialization strategies."
+    },
+    {
+      "n": "04",
+      "title": "Go-To-Market Execution",
+      "desc": "From positioning and partnership strategy to enterprise introductions and market expansion, we help companies execute high-impact GTM initiatives."
+    }
+  ],
+
+  "approach": {
+    "statement": "Unlock scalable growth through strategic partnerships.",
+    "focuses": [
+      { "n": "F.01", "txt": "Build valuable partnerships" },
+      { "n": "F.02", "txt": "Accelerate revenue growth" },
+      { "n": "F.03", "txt": "Unlock new market opportunities" },
+      { "n": "F.04", "txt": "Create scalable commercial infrastructure" }
+    ]
+  },
+
+  "whyUs": [
+    {
+      "n": "01",
+      "title": "Legacy Enterprise Relationships",
+      "desc": "We leverage long-standing relationships with Fortune 500 brands and enterprise decision-makers to create strategic opportunities for our clients."
+    },
+    {
+      "n": "02",
+      "title": "Ecosystem-Driven Growth",
+      "desc": "Our model combines advisory expertise with access to distribution networks, reseller channels, and strategic partnerships."
+    },
+    {
+      "n": "03",
+      "title": "Commercialization Expertise",
+      "desc": "We understand how to position SaaS products, monetize data, and align GTM execution with scalable recurring revenue growth."
+    },
+    {
+      "n": "04",
+      "title": "Strategic Market Access",
+      "desc": "We help clients enter new markets faster through trusted partnerships and established business networks."
+    }
+  ],
+
+  "advisoryAreas": [
+    "SaaS Commercialization Strategy",
+    "Enterprise Partnership Development",
+    "Channel & Reseller Expansion",
+    "Data Monetization Strategy",
+    "GTM Planning & Execution",
+    "Revenue Growth Optimization",
+    "Strategic Business Development",
+    "Recurring Revenue Acceleration"
+  ],
+
+  "clients": [
+    { "n": "01", "name": "SaaS Platforms" },
+    { "n": "02", "name": "Enterprise Technology Companies" },
+    { "n": "03", "name": "Data & Analytics Businesses" },
+    { "n": "04", "name": "Growth-Stage Startups" },
+    { "n": "05", "name": "Strategic Investors & Operators" },
+    { "n": "06", "name": "Channel & Distribution Networks" }
+  ],
+
+  "contact": {
+    "headline": "Let's build {{em:growth}} together.",
+    "copy": "Whether you are launching a new SaaS platform, expanding distribution channels, or developing a data monetization strategy, The Semio Group provides the relationships, expertise, and strategic guidance to help you scale.",
+    "cta": "Contact Us"
+  }
+}
